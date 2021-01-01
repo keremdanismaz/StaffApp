@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Ayşe Beyza Duran",
+      "Salary": "2000 Tl",
+      "Depertmants": "Bilişim Sektörü",
+      "id": 4
+    },
+    {
+      "name": "Zeynep Hamza",
+      "Salary": "2500 Tl",
+      "Depertmants": "Hayvan Yetiştiriciliği",
+      "id": 5
+    },
+    {
+      "name": "Kerem Danışmaz",
+      "Salary": "10000 Tl",
+      "Depertmants": "Bilişim Sektörü",
+      "id": 6
+    },
+    {
+      "name": "Enes Gerici",
+      "Salary": "8050 Tl",
+      "Depertmants": "Sekreter Yardımcısı",
+      "id": 7
+    },
+    {
+      "name": "Tuğba Danışmaz",
+      "Salary": "10000 Tl",
+      "Depertmants": "Bitki Koruma",
+      "id": 8
+    },
+    {
+      "name": "Kerem",
+      "Salary": "2000",
+      "Depertmants": "Bilişim Sektörü",
+      "id": 9
+    }
+  ]
+}
